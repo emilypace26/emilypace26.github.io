@@ -1,0 +1,28 @@
+.buttonLink
+{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.specialH1
+{
+    text-align: center;
+    font: bold 2.5em "Times New Roman", Times, serif;
+  
+}
+
+.specialH2
+{
+    text-align: center;
+    color:black;
+    background-color:white;
+    font-weight: thin;
+   
+}
+
+.tableLink
+{
+    padding: 5px;
+}
+

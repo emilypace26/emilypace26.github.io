@@ -1,0 +1,39 @@
+h1
+{
+    color:red;
+}
+
+#specialH1 {
+    border: 1px solid black; 
+}
+
+
+.colorDiv
+{
+    color:red;
+    background-color:blue;
+    border: 5px dotted green;
+
+}
+
+.buttonLink
+{
+    text-decoration: none;
+    background-color: red;
+    color:black;
+    border: 1px solid white; 
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.buttonLink:hover
+{
+    background-color: rgb(255, 130, 255);
+    color:black;
+    border: 1px solid rgb(250, 60, 250);
+    font-weight: bold;   
+}
